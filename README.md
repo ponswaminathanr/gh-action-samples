@@ -1,1 +1,1 @@
-Sample Repo to support various GitHub Actions
+Sample workflows for GitHub Actions
